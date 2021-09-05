@@ -8,6 +8,4 @@ BIOCHEM 3BP3 - Practical Bioinformatics in the Genomics Era
 
 Introduction to bioinformatics theory, tools, and practice with an emphasis upon high-throughput DNA sequencing technologies. Areas of emphasis include gene sequence analysis, functional prediction, genome assembly and annotation, gene expression analysis, gene regulation analysis, genome databases, and microbial genomics. Includes introduction to the command line, software development, and cloud computing.
 
-https://academiccalendars.romcmaster.ca/preview_course_nopop.php?catoid=24&coid=142047
-
 
