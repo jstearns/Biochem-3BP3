@@ -14,7 +14,7 @@
 
 The goal of this lab is to introduce two key bioinformatics databases – GenBank & Ensembl – plus a few additional online resources.
 
-**Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/jstearns/Biochem-3BP3/blob/main/Lectures/Lecture1_Introduction.pptx)
+**Lectures** - [Introduction to Bioinformatics & the Course](https://github.com/jstearns/Biochem-3BP3/blob/main/Lectures/Lecture_Introduction.pptx)
 
 
 **Background Reading** (optional)
