@@ -12,7 +12,7 @@
 
 The goal of this lab is to annotate the P450 proteins in the recently sequenced Great White Shark genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
-**Lectures** - [Sequence Similarity & Searching](https://mcmasteru365.sharepoint.com/:w:/r/sites/Section_2219-1774/Class%20Materials/Biochem%203BP3%20Fall%202021.docx?d=w89a5dc685e9040199d3a550bcc7a41e3&csf=1&web=1&e=Lb8JEC)
+**Lectures** - [Sequence Similarity & Searching](https://web.microsoftstream.com/video/a90ecc38-bf04-486a-bbe0-9b0bb30c25bf?list=studio)
 
 **Flash Updates**
 * *BLAST*. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online.  Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [Nature Education 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
