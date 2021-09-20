@@ -51,7 +51,7 @@ _Carcharodon carcharias. Source: IUCN Red List of Threatened Species_
 
 Dr. Joanna Wilson (Biology) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see pre-recorded introduction). Using query sequences from the zebrafish and human genomes, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
 
-List of P450 Query Sequences
+List of P450 Query Sequences: in Teams files under the General tab
 
 Ensembl, http://www.ensembl.org
 
