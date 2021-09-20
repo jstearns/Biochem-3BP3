@@ -12,7 +12,7 @@
 
 The goal of this lab is to annotate the P450 proteins in the recently sequenced Great White Shark genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
-**Lectures** - [Sequence Similarity & Searching]()
+**Lectures** - [Sequence Similarity & Searching](https://mcmasteru365.sharepoint.com/:w:/r/sites/Section_2219-1774/Class%20Materials/Biochem%203BP3%20Fall%202021.docx?d=w89a5dc685e9040199d3a550bcc7a41e3&csf=1&web=1&e=Lb8JEC)
 
 **Flash Updates**
 * *BLAST*. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online.  Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [Nature Education 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
@@ -66,7 +66,7 @@ _Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
 <a name="blast"></a>
 ## Finding Putative P450s via BLAST
 
-> Flash Update - BLAST [kahoot]()
+> Flash Update - BLAST 
 
 Using your query sequence (as protein!) in FASTA format, search the *Carcharodon carcharias* genome sequence at NCBI for all the possible P450 genes. Remember, since you are submitting a protein query against a genome that contains both introns & exons, a single putative P450 gene will likely have multiple High-scoring Segment Pairs (HSPs). Also, since all P450s are related, your single query may detect more than one putative P450 gene. 
 
