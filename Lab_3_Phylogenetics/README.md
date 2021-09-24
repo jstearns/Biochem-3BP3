@@ -137,7 +137,7 @@ Like above, use WordPad to view the PHYLIP format file (*Computer -> UDiskBOOT -
 ```bash
 Alternative RAxML Server
 
-http://www.genome.jp/tools/raxml/
+https://www.genome.jp/tools-bin/ete
 ```
 
 To generate a maximum likelihood phylogenetic tree for these data, we are going to use an online RAxML server at the Cyberinfrastructure for Phylogenetic Research (CIPRES) Project, http://www.phylo.org/index.php/. **If you do not have an account, please register for one (check your email to validate the registration).**
