@@ -32,3 +32,5 @@ if not exist "%USERPROFILE%\Mesquite_Support_Files\Mesquite_Prefs\temp\%tempdir%
 	)
 	
 echo "All directories found/created!"
+
+pause
