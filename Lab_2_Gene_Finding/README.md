@@ -66,8 +66,6 @@ _Introns and Exons (py = pyrimidines, i.e. C or U). Source: Wikipedia_
 <a name="blast"></a>
 ## Finding Putative P450s via BLAST
 
-> Flash Update - BLAST 
-
 Using your query sequence (as protein!) in FASTA format, search the *Carcharodon carcharias* genome sequence at NCBI for all the possible P450 genes. Remember, since you are submitting a protein query against a genome that contains both introns & exons, a single putative P450 gene will likely have multiple High-scoring Segment Pairs (HSPs). Also, since all P450s are related, your single query may detect more than one putative P450 gene. 
 
 NCBI TBLASTN: https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=tblastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome
