@@ -13,7 +13,7 @@ The goal of this lab is to improve student usage of the Linux operating system a
 
 Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 
-**Lectures** - [DNA Sequencing & Genome Assembly]()
+**Lectures** - [DNA Sequencing & Genome Assembly](https://web.microsoftstream.com/video/66261eb8-f5eb-48bf-88bb-2b454acdcafd)
 
 **Flash Updates**
 * *Illumina Sequencing*. Review the Illumina DNA sequencing method, using the MiSeq platform as an example. [Nat Biotechnol. 30:434-9](https://www.ncbi.nlm.nih.gov/pubmed/?term=22522955) and http://www.illumina.com/technology/next-generation-sequencing/sequencing-technology.html (you may use images from the “Illumina Sequencing Introduction” PDF).
@@ -46,9 +46,9 @@ We are going to perform a command line assembly of a *Salmonella* genome that wa
 
 **NOTE: SERVER PERFORMANCE MAY BE SLOW IF MANY STUDENTS ARE USING UPPSALA SIMULTANEOUSLY**
 
-> Flash Update - Illumina Sequencing [kahoot]()
+> Flash Update - Illumina Sequencing
 
-> Flash Update - FASTQ [kahoot]()
+> Flash Update - FASTQ
 
 To start:
 * Log into uppsala.mcmaster.ca
@@ -180,7 +180,7 @@ Using the lab computers, visualize the quality of the assembly graph, with an em
 <a name="galaxy"></a>
 ## PART 2 - Galaxy
 
-> Flash Update - Galaxy [kahoot]()
+> Flash Update - Galaxy
 
 Today’s lab will use the public server of the Galaxy project, http://usegalaxy.org. It is used by thousands of researchers, so you will be sharing computational resources – not all steps will perform quickly. Use the following steps to set up your account:
 

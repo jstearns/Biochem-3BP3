@@ -14,7 +14,7 @@
 
 The goal of this lab is to introduce the Linux operating system and the *command line*, in the context of file manipulation and Sanger DNA sequencing informatics.
 
-**Lectures** - [DNA Sequencing & Genome Assembly]()
+**Lectures** - [DNA Sequencing & Genome Assembly](https://web.microsoftstream.com/video/66261eb8-f5eb-48bf-88bb-2b454acdcafd)
 
 **Flash Updates**
 * *Sanger Sequencing*. Review the Sanger DNA sequencing method, with emphasis upon automation by Applied Biosystems. See [Nature Education 1:193](http://www.nature.com/scitable/topicpage/dna-sequencing-technologies-690) and http://www.nature.com/scitable/topicpage/the-order-of-nucleotides-in-a-gene-6525806. Note: You do not need to introduce 454, Illumina, or Next-Generation Sequencing (NGS) methods.
@@ -35,7 +35,7 @@ The goal of this lab is to introduce the Linux operating system and the *command
 <a name="terminal"></a>
 ## The Terminal Client and the Remote Server
 
-> Flash Update - Linux [kahoot]()
+> Flash Update - Linux
 
 Today’s lab will be performed almost exclusively at the command line and is meant to be an introduction to command line thinking. Your instructor will introduce the terminal client on the class computers and you will use it to connect to a Linux server in the McArthur Laboratory (called *uppsala.mcmaster.ca*). Please note, often Windows terminal clients may not allow cut-and-paste of text. Your credentials for logging in to *uppsala* are available in the A2L WORD file.
 
@@ -161,7 +161,7 @@ pwd
 
 Are you in your own directory? If not, ask for help. 
 
-> Flash Update - FASTA [kahoot]()
+> Flash Update - FASTA
 
 For a moment, open your web browser and look up accession LVLB01000014 in GenBank (http://www.ncbi.nlm.nih.gov). Now lets try the same thing at the command line using a Perl script written by Dr. McArthur:
 
@@ -343,7 +343,7 @@ Please stop your *yes* jobs so you get your command line prompt back by using *c
 <a name="seq"></a>
 ## Introductory Sequence Informatics
 
-> Flash Update - Sanger Sequencing [kahoot](https://kahoot.it/?_ga=2.264238917.871462812.1568207895-297922416.1568207895)
+> Flash Update - Sanger Sequencing
 
 Now we are going to learn some custom software developed by Dr. McArthur over the years for some simple Sanger sequence manipulation. First, move into your working directory and grab some data:
 

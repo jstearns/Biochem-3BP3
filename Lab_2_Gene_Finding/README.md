@@ -124,9 +124,9 @@ Your goal is to *Set Markers* for each exon in your putative P450 gene, using th
 <a name="annotate"></a>
 ## Annotating a Single P450 Gene
 
-> Flash Update - Pfam [kahoot]()
+> Flash Update - Pfam
 
-> Flash Update - PROSITE [kahoot]()
+> Flash Update - PROSITE
 
 **Paste your putative P450 protein sequence into your WORD file or otherwise keep a copy of it for next week.**
 

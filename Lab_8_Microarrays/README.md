@@ -12,7 +12,7 @@
 
 The goal of this lab is to review the analysis of microarray data.
 
-**Lectures** - [Gene Expression Analysis]()
+**Lectures** - [Gene Expression Analysis](https://github.com/jstearns/Biochem-3BP3/blob/main/Lectures/Lecture%208%20Gene%20Expression%202021.pptx)
 
 **Flash Updates**
 * *Microarrays*. Review microarray technology for measurement of absolute or relative gene expression levels. Highlight the key difference between microarrays and RNA sequencing approaches. See [Nature Education 1:195](http://www.nature.com/scitable/topicpage/transcriptome-connecting-the-genome-to-gene-function-605) and http://www.nature.com/scitable/topicpage/scientists-can-study-an-organism-s-entire-6526266
@@ -41,7 +41,7 @@ The goal of this lab is to review the analysis of microarray data.
 <a name="qc"></a>
 ## Sample Quality Control
 
-> Flash Update - Microarrays [kahoot]()
+> Flash Update - Microarrays
 
 You will be shown both BioAnalyzer results for assessment of RNA quality but also Feature Extraction results for assessment of hybridization and scanning quality. 
 
@@ -52,7 +52,7 @@ You will be shown both BioAnalyzer results for assessment of RNA quality but als
 <a name="normalization"></a>
 ## Normalization of Single Channel Data
 
-> Flash Update - Normalization [kahoot]()
+> Flash Update - Normalization
 
 **Example #1** illustrates Rank Invariant Probe normalization of the microarray data, needed since each microarray has received slightly differ amounts of labelled cRNA.  You will need the following:
 
@@ -93,7 +93,7 @@ From **Example 2**, you will next look at some normalized data from an experimen
 <a name="statistics"></a>
 ## Statistical Analysis
 
-> Flash Update - False Discovery [kahoot]()
+> Flash Update - False Discovery
 
 In **Example #3**, you will take the normalized data from the zebrafish oxidative stress experiment examined above and perform a statistical analysis. You will need from A2L:
 

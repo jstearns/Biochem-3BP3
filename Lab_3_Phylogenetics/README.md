@@ -12,7 +12,7 @@
 
 In the last lab you worked to identify and develop a gene model for a putative P450 gene in the *Carcharodon carcharias* genome. Using the available evidence, you worked to define intron and exon boundaries as well as predict the encoded protein sequence. Yet you may have questioned whether your exons were under- or over-estimated and whether you missed any exons. Additionally, you used BLAST, Pfam, and PROSITE to provide a first-pass assignment to P450 family and subfamily. The goal of this lab is to use the methods of evolutionary biology to examine the accuracy of your gene model and preliminary annotation. 
 
-**Lectures** - [Evolutionary Biology](https://github.com/jstearns/Biochem-3BP3/blob/main/Lectures/Lecture%203%20Evolutionary%20Biolgy%202021.pptx)
+**Lectures** - [Evolutionary Biology](https://web.microsoftstream.com/video/efc8a76c-807a-46da-8006-5a78a989d7ac)
 
 **Flash Updates**
 * *Terminology*. Explain the difference between the terms “similarity” and “homology”. Differentiate between the terms “homolog”, “paralog”, “ortholog”. See [Annu Rev Genet. 2005;39:309-38](https://www.ncbi.nlm.nih.gov/pubmed/?term=16285863) and http://www.ncbi.nlm.nih.gov/books/NBK62051/.
@@ -62,7 +62,7 @@ To perform this analysis, go to the NCBI BLASTP page and submit your sequence as
 
 **Record your BLASTP Request ID (RID) so you don't loose your results (expires after 24 hours)**
 
-> Flash Update - Terminology [kahoot]()
+> Flash Update - Terminology
 
 When you have your BLAST results, you will see *Other Reports* -> *Distance Tree of Results*. Please examine this tree and following the demonstration, use the tree and the taxonomy report to guide selection of 30-40 sequences in your BLAST report for further analysis. Your selection criteria are to sample a diverse range of P450 subfamilies and a diverse range of organisms in your P450’s family and subfamilies, plus hopefully a few sequences from an outgroup P450 family. **If possible, include representative P450s from fish, reptiles, and mammals from at least two subfamilies. Avoid invertebrates.**
 
@@ -84,7 +84,7 @@ Now you have a FASTA format data file of representative P450 sequences related t
 
 Note that the sequences are not aligned, but individually ordered from first amino acid to last amino acid. Before we align them, we will hear from our second Flash Update.
 
-> Flash Update - Sequence Alignment [kahoot]()
+> Flash Update - Sequence Alignment
 
 Perform multiple sequence alignment on these data via the menu, *Matrix -> Align Multiple Sequences -> ClustalW Align*, with the following options when prompted:
 
@@ -176,7 +176,7 @@ Download the Best ML Tree with Bootstrap results:
 <a name="tree"></a>
 ## Phylogenetic Tree Interpretation
 
-> Flash Update - Phylogenetic Trees [kahoot]()
+> Flash Update - Phylogenetic Trees
 
 Once the flash update is complete, we will look at the pre-prepared phylogenetic tree for a putative Elephant Shark CYP 3A. Download the tree file from Avenue to Learn. Click on the Windows icon at the bottom left of your screen and use the search box to search for the program *forester_1038.jar*. Double click to start this program (it may take a moment to appear and start). Forester is a software package for visualizing phylogenetic trees. Perform the following:
 
