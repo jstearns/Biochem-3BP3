@@ -12,7 +12,7 @@
 
 The goal of this lab is to annotate the P450 proteins in the recently sequenced Great White Shark genome, using BLAST, Pfam, and other tools plus a number of available databases. This is a problem-based learning lab and you will work both collectively and individually. The results of this week’s lab will be used in next week’s evolution lab.
 
-**Lectures** - [Sequence Similarity & Searching](https://web.microsoftstream.com/video/a90ecc38-bf04-486a-bbe0-9b0bb30c25bf?list=studio)
+**Lectures** - [Sequence Similarity & Searching]
 
 **Flash Updates**
 * *BLAST*. Provide a review of the purpose of BLAST algorithms for database searching and how to perform them online.  Specifically, outline the difference between BLASTN, BLASTP, BLASTX, TBLASTN, and TBLASTX. See Lobo 2008. Basic Local Alignment Search Tool (BLAST). [Nature Education 1: 215](http://www.nature.com/scitable/topicpage/basic-local-alignment-search-tool-blast-29096)
@@ -51,7 +51,7 @@ _Carcharodon carcharias. Source: IUCN Red List of Threatened Species_
 
 Dr. Joanna Wilson (Biology) will introduce *Carcharodon carcharias* (great white shark) and its importance for evolutionary biology, with a focus on the P450 enzymes in the defensome (see pre-recorded introduction). Using query sequences from the zebrafish and human genomes, it is your job to use the BLAST tools and genome browser at NCBI to collectively find all the putative P450 genes in this genome. Once the class had developed a list of putative genes, each student will be assigned a gene to map out intron/exon boundaries and the predicted protein sequence. Remember what you have learned about splicing sites:
 
-List of P450 Query Sequences: in Teams files under the General tab
+[List of P450 Query Sequences](https://mcmasteru365.sharepoint.com/:x:/r/sites/Section_501955/Shared%20Documents/General/Lab%202%20P450%20List%202022.xlsx?d=w5ce8192e5c3e49e0b6fa1815a3e3bf4f&csf=1&web=1&e=VjcKd0) in Teams files under the General tab 
 
 Ensembl, http://www.ensembl.org
 
