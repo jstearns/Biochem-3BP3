@@ -22,9 +22,8 @@ The goal of this lab is to introduce the Linux operating system and the *command
 * *Linux*. Introduce the concept of the operating systems (Windows, Mac, “command line”). Give a brief history of the origins of UNIX and how it differs from LINUX. See [What is Linux](http://www.linuxfoundation.org/what-is-linux) and [Differentiating UNIX and Linux](http://www.ibm.com/developerworks/aix/library/au-unix-difflinux.html).
 
 **Computer Resources**
-* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
+* This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID. (this is optional)
+* Your work appears to be saved in the virtual environment however always save your work elsewhere just to be safe. 
 
 **Grading**
 * This is a participation lab, not graded.
