@@ -173,7 +173,7 @@ _Comparison of the assembly contigs (bottom) to the complete genome sequence of 
 
 Using the lab computers, visualize the quality of the assembly graph, with an emphasis upon repeated sequences, using BANDAGE (https://rrwick.github.io/Bandage) and the *LastGraph.txt* file available on A2L/GitHub.
 
-**Problem #1. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?**
+**Problem #3. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?**
 
 <a name="galaxy"></a>
 ## PART 2 - Galaxy
