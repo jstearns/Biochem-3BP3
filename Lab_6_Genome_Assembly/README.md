@@ -139,9 +139,9 @@ scaffoldstats draft_assembly/contigs.fa
 
 **Question #8. What fraction of the sequencing reads contributed to the final assembly?**
 
-**Problem #1. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Is the N50 higher for the scaffolds than the contigs? Why?**
+**Question #9. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Is the N50 higher for the scaffolds than the contigs? Why?**
 
-**Problem #2. Why is the final estimated coverage lower than what we estimated in Question 6?**
+**Problem #1. Why is the final estimated coverage lower than what we estimated in Question 6?**
 
 Record some statistics for later comparison:
 
@@ -173,7 +173,7 @@ _Comparison of the assembly contigs (bottom) to the complete genome sequence of 
 
 Using the lab computers, visualize the quality of the assembly graph, with an emphasis upon repeated sequences, using BANDAGE (https://rrwick.github.io/Bandage) and the *LastGraph.txt* file available on A2L/GitHub.
 
-**Problem #3. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?**
+**Problem #2. Based on the Tablet, MAUVE, and BANDAGE results, what is your assessment of the quality of your genome assembly?**
 
 <a name="galaxy"></a>
 ## PART 2 - Galaxy
@@ -229,9 +229,9 @@ For each position a BoxWhisker type plot is drawn. The elements of the plot are 
 
 The y-axis on the graph shows the quality scores. The higher the score the better the base call. The background of the graph divides the y axis into very good quality calls (green), calls of reasonable quality (orange), and calls of poor quality (red). The quality of calls on most platforms will degrade as the run progresses, so it is common to see base calls falling into the orange area towards the end of a read.
 
-**Question #11. At what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
+**Question #10. At what position along the reads does the mean quality fall below Q20? Is it the same for both the forward and reverse reads?**
 
-**Question #12. After reading the documentation on the FASTQC plots, do you think there is any evidence that the sequence library is biased (i.e. non-random)? Explain your reasoning.**
+**Question #11. After reading the documentation on the FASTQC plots, do you think there is any evidence that the sequence library is biased (i.e. non-random)? Explain your reasoning.**
 
 **FASTQ GROOMER**
 
@@ -247,7 +247,7 @@ You will be shown how to use the TRIMMOMATIC tool to perform quality trimming on
 
 Take a look at the new FASTQ files and then analyze the results using FASTQC. 
 
-**Question #13. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?**
+**Problem #3. How does the trimmed FASTQ data differ from the original FASTQ data? How will the trimming improve your assembly?**
 
 **PREPARING FOR ASSEMBLY**
 
@@ -280,8 +280,8 @@ Also use the **Quast** tool (using defaults) to generate assembly statistics, re
 
 **INTERPRETATION**
 
-By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Quast results and the BANDAGE plot to answer the following questions:
+By the end of the lab, you should have all of the steps in the Galaxy queue. Once they are all complete, using the Quast results and the BANDAGE plot to answer the following questions:
 
-**Question #14. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
+**Question #12. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
 
-**Question #15. Compare this assembly to the command-line Velvet assembly. The Unicycler assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
+**Question #13. Compare this assembly to the command-line Velvet assembly. The Unicycler assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
