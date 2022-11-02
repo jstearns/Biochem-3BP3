@@ -27,8 +27,6 @@ Flash Updates - Illumina Sequencing, FASTQ, Galaxy
 
 **Computer Resources**
 * This lab will use McMaster's Virtual Machines, see the demo on how to login using your MacID.
-* You will be automatically logged out after 10 minutes of mouse inactivity. Use **CAFFEINE** to override the automatic log out – **REMEMBER TO LOG OUT MANUALLY AT THE END OF THE LAB**.
-* All files and work on the computers will be lost when you log out. Be sure to save your work elsewhere. 
 
 **Grading**
 * The WORD file for answers is available on A2L, be sure to submit your answers on **A2L Quizzes** before the deadline.
@@ -141,9 +139,9 @@ scaffoldstats draft_assembly/contigs.fa
 
 **Question #8. What fraction of the sequencing reads contributed to the final assembly?**
 
-**Question #9. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Is the N50 higher for the scaffolds than the contigs? Why?**
+**Problem #1. The Final Graph in Velvet refers to the contig sequences, whereas the output of scaffoldstats refers to scaffolds. Is the N50 higher for the scaffolds than the contigs? Why?**
 
-**Question #10. Why is the final estimated coverage lower than what we estimated in Question 6?**
+**Problem #2. Why is the final estimated coverage lower than what we estimated in Question 6?**
 
 Record some statistics for later comparison:
 
@@ -284,6 +282,6 @@ Also use the **Quast** tool (using defaults) to generate assembly statistics, re
 
 By the end of the lab, you should have all of the steps in the Galaxy que. Once they are all complete, using the Quast results and the BANDAGE plot to answer the following questions:
 
-**Problem #2. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
+**Question #14. Based on the statistics above, do you think this is a high quality assembly of a *Salmonella* genome? Explain your reasoning.**
 
-**Problem #3. Compare this assembly to the command-line Velvet assembly. The Unicycler assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
+**Question #15. Compare this assembly to the command-line Velvet assembly. The Unicycler assembly had more FASTQ data and a better algorithm, but what specifically improved in the assembly?**
